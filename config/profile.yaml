@@ -16,7 +16,7 @@ profile:
   headline: "Student @ [Your University]"
   email: ""
   location: null
-  profileImage: "https://github.com/icevalon/whoami/blob/main/src/img.jpg"
+  profileImage: "https://github.com/icevalon/whoami/tree/main/src/img.jpg"
 
   links:
     - name: "LinkedIn"
