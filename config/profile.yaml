@@ -224,7 +224,7 @@ skills:
 #      proficiency: 2024 - 2025
 #      description: "Learning meaningful embeddings and feature representations from data."
 
-    Language:
+Language:
     - name: "English"
       logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/OOjs_UI_icon_language-ltr-progressive.svg"
       proficiency: Experienced
