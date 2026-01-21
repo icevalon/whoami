@@ -14,9 +14,9 @@
 profile:
   name: "Cookie"
   headline: "Student @ [Your University]"
-  email: "your-email@gmail.com"
+  email: ""
   location: null
-  profileImage: "/src/img.jpg"
+  profileImage: "https://github.com/icevalon/whoami/blob/main/src/img.jpg"
 
   links:
     - name: "LinkedIn"
