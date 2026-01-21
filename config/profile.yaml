@@ -51,7 +51,7 @@ profile:
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
     Hi! I'm <strong>Cookie</strong>, a <em>high school student</em> passionate about <em>computers</em>. 
-    I have strong interests in: 
+    I have strong interests in: <br>
      - Cybersecurity
      - Networking
      - Linux Internals & Computer architecture
