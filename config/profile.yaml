@@ -50,7 +50,7 @@ profile:
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
-    Hi! I'm <strong>Cookie</strong>, a <em>high school student</em> passionate about <em>computers!</em>. 
+    Hi! I'm <strong>Cookie</strong>, a <em>high school student</em> passionate about <em>computers</em>. 
     I have strong interests in: 
      - Cybersecurity
      - Networking
