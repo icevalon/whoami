@@ -13,10 +13,10 @@
 
 profile:
   name: "Cookie"
-  headline: "Student @ [Your University]"
+  headline: "Student"
   email: ""
   location: null
-  profileImage: "https://github.com/icevalon/whoami/tree/main/src/img.jpg"
+  profileImage: "/images/logo.png"
 
   links:
     - name: "LinkedIn"
