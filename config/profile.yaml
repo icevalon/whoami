@@ -42,19 +42,19 @@ profile:
         name: "FaGithub"
         package: "react-icons/fa6"
 
-    - name: "Facebook"
-      url: ""
-      icon:
-        name: "FaSquareFacebook"
-        package: "react-icons/fa6"
+   # - name: "Facebook"
+   #   url: ""
+   #   icon:
+   #     name: "FaSquareFacebook"
+   #     package: "react-icons/fa6"
 
   # you can use HTML syntax here (e.g. <br/>, <a>, <strong>, ...)
   biography: |
     Hi! I'm <strong>Cookie</strong>, a <em>high school student</em> passionate about <em>computers</em>. 
-    I have strong interests in: |
-     - Cybersecurity |
-     - Networking |
-     - Linux Internals & Computer architecture |
+    I have strong interests in:\n
+     - Cybersecurity\n
+     - Networking\n
+     - Linux Internals & Computer architecture\n
     <div class="my-2"></div>
 # # =====================================================
 # # 🎓 Education Section
