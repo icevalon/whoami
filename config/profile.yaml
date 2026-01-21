@@ -19,11 +19,11 @@ profile:
   profileImage: "/images/logo.png"
 
   links:
-    - name: "LinkedIn"
-      url: ""
-      icon:
-        name: "FaLinkedin"
-        package: "react-icons/fa6"
+#    - name: "LinkedIn"
+#      url: ""
+#      icon:
+#        name: "FaLinkedin"
+#        package: "react-icons/fa6"
 
     - name: "Google Scholar"
       url: ""
