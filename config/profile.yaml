@@ -12,39 +12,39 @@
 # =====================================================
 
 profile:
-  name: "[Your Name]"
+  name: "Cookie"
   headline: "Student @ [Your University]"
   email: "your-email@gmail.com"
   location: null
-  profileImage: "https://github.com/pm25.png"
+  profileImage: "/src/img.jpg"
 
   links:
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/[your-linkedin]"
+      url: ""
       icon:
         name: "FaLinkedin"
         package: "react-icons/fa6"
 
     - name: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=[your-id]"
+      url: ""
       icon:
         name: "FaGoogleScholar"
         package: "react-icons/fa6"
 
     - name: "Résumé"
-      url: "/pdf/sample-resume.pdf"
+      url: ""
       icon:
         name: "FaRegIdBadge"
         package: "react-icons/fa6"
 
     - name: "Github"
-      url: "https://github.com/[your-github]"
+      url: "https://github.com/icevalon"
       icon:
         name: "FaGithub"
         package: "react-icons/fa6"
 
     - name: "Facebook"
-      url: "https://www.facebook.com/[your-facebook]"
+      url: ""
       icon:
         name: "FaSquareFacebook"
         package: "react-icons/fa6"
