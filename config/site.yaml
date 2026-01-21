@@ -4,7 +4,7 @@
 # =====================================================
 
 site:
-  name: "Cookie's Website"
+  name: "Cookie"
   repoUrl: "https://github.com/icevalon/whoami"
   description: "Welcome to Cookie's Website"
   author: "Cookie"
